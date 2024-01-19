@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Aman Sahu</h1>
-<h3 align="center">I am an aspiring Full Stack Developer from the United States</h3>
+<h3 align="center">I am an aspiring Software Developer from the United States</h3>
 
 Welcome to my GitHub Profile
 - 🌱 I’m currently learning **Angular, JavaScript, and Backend Development**
