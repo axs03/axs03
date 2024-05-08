@@ -2,9 +2,9 @@
 <h3 align="center">I am an aspiring Software Developer from the United States</h3>
 
 Welcome to my GitHub Profile
-- 🌱 I’m currently learning **Angular, JavaScript, and Backend Development**
+- 🌱 I’m currently learning **React-Native, TypeScript, and Machine Learning**
 
-- 💬 Ask me about **Python and HTML/CSS**
+- 💬 My main language is **Python**
 
 - 📫 Email : **amansahu9000@gmail.com**
 
