@@ -2,7 +2,7 @@
 <h3 align="center">I am an aspiring Software Developer from the United States</h3>
 
 Welcome to my GitHub Profile
-- 🌱 I’m currently learning **React-Native, TypeScript, and Machine Learning**
+- 🌱 I’m currently trying to learn **Natural Language Prcessing Models and Machine Learning**
 
 - 💬 My main language is **Python**
 
