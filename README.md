@@ -10,7 +10,7 @@
 I have worked with tools and languages like:</p>
 
 ###
-
+<!--
 <div align="center">
   <table>
   	<tr>
@@ -57,7 +57,7 @@ I have worked with tools and languages like:</p>
   	</tr>
   </table>
 </div>
-
+-->
 <h3 align="center">🔥   My Statistics   🔥</h3>
 
 <div align='center'>
