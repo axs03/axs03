@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">My name is Aman S. from the United States and I am currently a student studying Computer Science!<br>I am currently trying to learn the tools and terminologies about Data Science and Data Engineering.
-I have worked with tools and languages like:</p>
+<p align="left">My name is Aman S. from the United States and I am currently a student studying Computer Science!<br>I am currently trying to learn the tools and terminologies relating to Data Sience and Software Engieering.</p>
 
 ###
 <!--
