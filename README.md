@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Aman S. from the United States and I am currently a student studying Computer Science!<br>I am currently trying to learn the tools and terminologies relating to Data Sience and Software Engieering.</p>
+<p align="left">My name is Aman S. from the United States and I am currently a student studying Computer Science!<br>I am currently trying to learn the tools and terminologies relating to Software Engineering and Software Development.</p>
 
 ###
 <!--
