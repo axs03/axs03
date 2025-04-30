@@ -17,3 +17,5 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=axs03&theme=dracula" alt="streak graph"/>
 </div>
+
+<!-- ![My Awesome Certification Credly Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png) -->
