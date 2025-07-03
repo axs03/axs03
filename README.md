@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is <b>Aman Sahu</b> from the United States. I am currently a student studying <b>Computer Science @ Penn State University</b>.<br>I am currently trying to learn the tools and techniques relating to Software Engineering and Software Development.</p>
+<p align="left">My name is <b>Aman Sahu</b> from the <b>United States</b>. I am recent graduate from <b>Computer Science @ Penn State University</b>.<br>I am currently trying to learn the tools and techniques relating to Software Engineering and Software Development. I am interesed in learning about AI and Machine Learning.</p>
 
 ###
 
