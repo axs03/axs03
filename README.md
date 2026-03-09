@@ -6,16 +6,10 @@
 
 ###
 
-<p align="left">My name is <b>Aman Sahu</b> from the <b>United States</b>. I am recent graduate from <b>Computer Science @ Penn State University</b>.<br>I am currently trying to learn the tools and techniques relating to Software Engineering and Software Development. I am interesed in learning about AI and Machine Learning.</p>
+<p align="left">My name is <b>Aman Sahu</b> and I am from the <b>United States</b>. I am a graduate from <b>Computer Science @ Penn State University</b>.<br>Currently trying to learn the tools and techniques relating to Software Engineering and Software Development.
 
 ###
 
-<h3 align="center">🔥   My Statistics   🔥</h3>
-
-<div align='center' flex=1 flex-direction='column'>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axs03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 1  height="150"/> -->
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=axs03&theme=dracula" alt="streak graph"/>
-</div>
-
-<!-- ![My Awesome Certification Credly Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png) -->
+<!--
+![My Awesome Certification Credly Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)
+-->
