@@ -4,8 +4,8 @@
 
 ### About Me
 - My name is **Aman Sahu** and I am from the **United States**.
-- A graduate in **Computer Science @ Penn State University**.
-- Currently have around **1 year of professional expereince** in Backend Development working with Spring Boot, Java, and Python.
+- A graduate from **The Pennsylvania State University** in **Computer Science**.
+- Currently have around **1 year of professional experience** in Backend Development working with Spring Boot, Java, and Python.
 
 ---
 ### Badges
