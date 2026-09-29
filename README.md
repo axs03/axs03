@@ -1,56 +1,19 @@
-<h1 align="center">Hello!</h1>
+# Aman Sahu
 
-### About Me
-- My name is **Aman Sahu** and I am from the **United States**.
-- A graduate from **The Pennsylvania State University** in **Computer Science**.
-- Currently have around **1 year of professional experience** in Backend Development working with Spring Boot, Java, and Python.
+I'm Aman Sahu, a backend engineer with 1 year of professional experience in Java, Spring Boot, and Python. Computer Science graduate from The Pennsylvania State University, based in the United States.
 
----
-## Tech Stack
-These are the technologies I have worked with and have experience in.
-#### Languages
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+## Technologies
 
-#### Frameworks & Libraries
-<p align="left">
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-</p>
+**Languages** ![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-18181b?style=flat-square&logo=gnubash&logoColor=white)
 
-#### Data Science & ML
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
+**Frameworks** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181b?style=flat-square&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-18181b?style=flat-square&logo=flask&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-18181b?style=flat-square&logo=electron&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-18181b?style=flat-square&logo=qt&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-18181b?style=flat-square&logo=graphql&logoColor=white)
 
-#### Databases
-<p align="left">
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+**Data & ML** ![PyTorch](https://img.shields.io/badge/PyTorch-18181b?style=flat-square&logo=pytorch&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-18181b?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-18181b?style=flat-square)
 
-#### Infrastructure & Tools
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+**Databases** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=white)
 
----
-### Badges
-![PCAP Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)
-![Claude Certified Architect - Foundations](https://images.credly.com/size/120x120/images/f2040db3-3904-4240-8966-e87b1510bea0/blob)
+**Infrastructure & Tools** ![AWS](https://img.shields.io/badge/AWS-18181b?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-18181b?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=white)
+
+## Certifications
+
+<img src="https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP – Certified Associate in Python Programming" width="120"/> <img src="https://images.credly.com/size/120x120/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect – Foundations" width="120"/>
