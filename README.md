@@ -52,4 +52,5 @@ These are the technologies I have worked with and have experience in.
 
 ---
 ### Badges
-![My Awesome Certification Credly Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)
+![PCAP Badge](https://images.credly.com/size/120x120/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)
+![Claude Certified Architect - Foundations](https://images.credly.com/size/120x120/images/f2040db3-3904-4240-8966-e87b1510bea0/blob)
